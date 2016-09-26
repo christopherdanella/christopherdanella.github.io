@@ -8,3 +8,9 @@ body {
   margin: auto;
   max-width: 800px;
 }
+
+.navbar {
+  text-transform: uppercase;
+  font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background-color: #ffffff;
+}
