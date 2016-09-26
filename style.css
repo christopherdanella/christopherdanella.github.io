@@ -4,11 +4,13 @@ body {
   padding: 20px 5%;
 }
 
-@media (min-width: 600px) {
-
-}
-
 .container {
   margin: auto;
   max-width: 800px;
+}
+
+.navbar {
+  text-transform: uppercase;
+  font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  background-color: #ffffff;
 }
